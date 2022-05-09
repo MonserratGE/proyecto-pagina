@@ -34,7 +34,7 @@ html {
   transition: all .4s ease-in-out;
   box-shadow: 0 1px 5px 0 black;
   text-align: center;
-  background-color: #198e92;
+  background-color: grey;
 }
 
 .carde:hover{
@@ -321,6 +321,9 @@ html {
   text-align: center;
 }
 
+.bg-map{
+  background-color: #47817e;
+}
 /* Vídeos */
 .videoIframe {
   width: 100%;
